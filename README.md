@@ -29,7 +29,7 @@
 - 🌱 Currently learning **Advanced Pentesting & ML for Threat Detection**
 - 🏴‍☠️ Red Teamer at heart
 - ⚡ Fun fact: I love to break into systems and play Video Games 🎮
-- 📫 Reach me: **harshraj0645@gmail.com**
+- 📫 Reach me: **harshraj****@gmail.com**
 
 <br clear="both"/>
 
