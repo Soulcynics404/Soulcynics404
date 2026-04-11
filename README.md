@@ -29,7 +29,7 @@
 - 🌱 Learning **Advanced Pentesting & ML for Threat Detection**
 - 🏴‍☠️ **Red Teamer** at heart
 - ⚡ Fun fact: I break into systems and play Video Games 🎮
-- 📫 **harshraj0645@gmail.com**
+- 📫 **harsh*********@gmail.com**
 
 <br clear="both"/>
 
