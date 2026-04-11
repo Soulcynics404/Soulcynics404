@@ -1,29 +1,32 @@
-<!-- HEADER BANNER -->
+<!-- HEADER BANNER - RED/CRIMSON THEME -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:0f3460,50:16c79a,75:0f3460,100:0a0a0a&height=220&section=header&text=Soulcynics404&fontSize=50&fontColor=16c79a&animation=twinkling&fontAlignY=35&desc=Security%20Researcher%20%7C%20AI%2FML%20%7C%20Ethical%20Hacker&descSize=18&descAlignY=55&descColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:8B0000,50:DC143C,75:8B0000,100:0a0a0a&height=220&section=header&text=Soulcynics404&fontSize=50&fontColor=DC143C&animation=twinkling&fontAlignY=35&desc=Security%20Researcher%20%7C%20AI%2FML%20%7C%20Ethical%20Hacker&descSize=18&descAlignY=55&descColor=ffffff" width="100%"/>
 </p>
 
-<!-- STATIC LINE - ALWAYS VISIBLE -->
-<h2 align="center">🔐 Breaking Systems to Make Them Secure 🔐</h2>
+<!-- STATIC LINE - COLORED -->
+<h2 align="center"><font color="#DC143C">🔐 Breaking Systems to Make Them Secure 🔐</font></h2>
 
-<!-- TYPING SVG - CYCLES BELOW -->
+<!-- TYPING SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=16C79A&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Red+Teamer+%7C+Pentester;AI+%2B+Security+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Red+Teamer+%7C+Pentester;AI+%2B+Security+Research" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Soulcynics404&label=Profile%20Views&color=16c79a&style=for-the-badge" alt="Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Soulcynics404&label=Profile%20Views&color=DC143C&style=for-the-badge" alt="Views"/>
   <a href="https://github.com/Soulcynics404?tab=followers">
-    <img src="https://img.shields.io/github/followers/Soulcynics404?label=Followers&style=for-the-badge&color=16c79a&labelColor=0d1117"/>
+    <img src="https://img.shields.io/github/followers/Soulcynics404?label=Followers&style=for-the-badge&color=DC143C&labelColor=0d1117"/>
   </a>
 </p>
 
----
+<!-- GLOWING DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
 
-## 👋 Hi, I'm Harsh
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I'm Harsh
 
 <img align="right" alt="Hacking" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif"/>
 
@@ -36,7 +39,10 @@
 
 <br clear="both"/>
 
----
+<!-- GLOWING DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
 
 ## 💬 Connect with me
 
@@ -48,7 +54,10 @@
   <a href="https://tryhackme.com/p/YOUR-THM"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 </p>
 
----
+<!-- GLOWING DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
 
 ## 🛡️ Languages & Tools
 
@@ -84,7 +93,10 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
----
+<!-- GLOWING DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
 
 ## 🚀 Featured Projects
 
@@ -121,27 +133,36 @@
 </tr>
 </table>
 
----
+<!-- GLOWING DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Soulcynics404&theme=radical&border=16c79a&background=0d1117&stroke=16c79a&ring=16c79a&fire=ff6e96&currStreakLabel=16c79a&sideLabels=16c79a&currStreakNum=ffffff&sideNums=ffffff&dates=c9d1d9" alt="Streak"/>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Soulcynics404&theme=radical&border=DC143C&background=0d1117&stroke=DC143C&ring=DC143C&fire=ff6e96&currStreakLabel=DC143C&sideLabels=DC143C&currStreakNum=ffffff&sideNums=ffffff&dates=c9d1d9" alt="Streak"/>
 </p>
 
----
+<!-- GLOWING DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
 
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soulcynics404&bg_color=0d1117&color=16c79a&line=16c79a&point=ff6e96&area=true&area_color=16c79a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soulcynics404&bg_color=0d1117&color=DC143C&line=DC143C&point=ff6e96&area=true&area_color=DC143C&hide_border=true" width="100%"/>
 </p>
 
----
+<!-- GLOWING DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:0f3460,50:16c79a,75:0f3460,100:0a0a0a&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:8B0000,50:DC143C,75:8B0000,100:0a0a0a&height=120&section=footer" width="100%"/>
 </p>
 
 <p align="center">
