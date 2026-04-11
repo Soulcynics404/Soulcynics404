@@ -1,20 +1,20 @@
-<!-- GREEN MATRIX BANNER -->
+<!-- PURPLE STEALTH BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00FF41,100:000000&height=200&section=header&text=Soulcynics404&fontSize=50&fontColor=00FF41&animation=twinkling&fontAlignY=35&desc=Red%20Team%20%7C%20Security%20Research%20%7C%20AI&descSize=16&descAlignY=55&descColor=00FF41" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:4B0082,60:8A2BE2,100:0d1117&height=220&section=header&text=Soulcynics404&fontSize=50&fontColor=8A2BE2&animation=twinkling&fontAlignY=35&desc=Ghost%20in%20the%20Machine&descSize=18&descAlignY=55&descColor=ffffff" width="100%"/>
 </p>
 
-<h3 align="center">⚡ Breaking Systems to Make Them Secure ⚡</h3>
+<h3 align="center">👻 Breaking Systems to Make Them Secure</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=450&height=40&lines=%3E_+Red+Team+Operator;%3E_+Pentester;%3E_+AI+Security+Researcher;%3E_+Access+Granted..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Red+Team+Operator+%F0%9F%94%B4;Penetration+Tester+%F0%9F%8E%AF;AI+Security+Researcher+%F0%9F%A4%96;Silent.+Precise.+Effective." alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Soulcynics404&label=Profile%20Views&color=00FF41&style=flat-square" alt="Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Soulcynics404&label=Observers&color=8A2BE2&style=for-the-badge" alt="Views"/>
   <a href="https://github.com/Soulcynics404?tab=followers">
-    <img src="https://img.shields.io/github/followers/Soulcynics404?label=Followers&style=flat-square&color=00FF41&labelColor=0d1117"/>
+    <img src="https://img.shields.io/github/followers/Soulcynics404?label=Followers&style=for-the-badge&color=8A2BE2&labelColor=0d1117"/>
   </a>
 </p>
 
@@ -22,18 +22,106 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </p>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/> ./about_me.sh
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/> Reconnaissance
 
-```bash
-┌──(soulcynics404㉿kali)-[~]
-└─$ cat /etc/profile
+<img align="right" alt="Hacking" width="280" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif"/>
 
-  HANDLE    : Soulcynics404
-  NAME      : Kumar Harsh
-  ROLE      : Red Team Operator
-  LOCATION  : India
-  
-  INTERESTS : [ Offensive Security, AI/ML, Exploit Dev, Malware Analysis ]
-  MOTTO     : "The quieter you become, the more you are able to hear."
-  
-  STATUS    : Actively hunting vulnerabilities...
+- 👻 **Red Team Operator** — I am the threat model
+- 🎯 Specialties: **Pentesting, Exploit Dev, Adversary Simulation**
+- 🤖 Building **AI-driven offensive tools**
+- 🌑 Operating from the **shadows of the network**
+- 🎮 Off-duty: Gaming & CTFs
+- 📧 `harshraj0645@gmail.com`
+
+<br clear="both"/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
+
+## ⚔️ Loadout
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
+
+## 🎯 Engagements
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### [🔍 Scan-and-Patch](https://github.com/Soulcynics404/Scan-and-Patch)
+Automated Vuln Scanner<br/>
+`Python` `Nmap` `OWASP`
+
+</td>
+<td align="center" width="50%">
+
+### [🤖 Sentinal-AI](https://github.com/Soulcynics404/Sentinal-AI)
+AI Security System<br/>
+`C++` `OpenCV` `ML`
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
+
+## 📊 Metrics
+
+<p align="center">
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Soulcynics404&theme=midnight-purple&border=8A2BE2&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&sideLabels=8A2BE2&currStreakNum=ffffff&sideNums=ffffff&dates=555555"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soulcynics404&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=ffffff&area=true&area_color=8A2BE2&hide_border=true" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
+
+## 🔗 Comms
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:harshraj0645@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Soulcynics404"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:4B0082,60:8A2BE2,100:0d1117&height=100&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <b>👻 "You can't defend what you don't understand. I understand your attack surface." 👻</b>
+</p>
