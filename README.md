@@ -1,12 +1,12 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:0f3460,50:16c79a,75:0f3460,100:0a0a0a&height=220&section=header&text=Soulcynics404&fontSize=50&fontColor=16c79a&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20%7C%20AI%2FML%20%7C%20Ethical%20Hacker&descSize=18&descAlignY=55&descColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:0f3460,50:16c79a,75:0f3460,100:0a0a0a&height=220&section=header&text=Soulcynics404&fontSize=50&fontColor=16c79a&animation=twinkling&fontAlignY=35&desc=Security%20Researcher%20%7C%20AI%2FML%20%7C%20Ethical%20Hacker&descSize=18&descAlignY=55&descColor=ffffff" width="100%"/>
 </p>
 
 <!-- TYPING SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=16C79A&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Breaking+Systems+to+Make+Them+Secure;AI+%2B+Cybersecurity+Researcher;Red+Teamer+%7C+Pentester" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=16C79A&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Breaking+Systems+to+Make+Them+Secure;Red+Teamer+%7C+Pentester;AI+%2B+Security+Research" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 - 🌱 Learning **Advanced Pentesting & ML for Threat Detection**
 - 🏴‍☠️ **Red Teamer** at heart
 - ⚡ Fun fact: I break into systems and play Video Games 🎮
-- 📫 **harsh*********@gmail.com**
+- 📫 **harshraj0645@gmail.com**
 
 <br clear="both"/>
 
@@ -122,7 +122,6 @@
 
 ## 📊 GitHub Stats
 
-<!-- Streak - THIS ONE WORKS -->
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Soulcynics404&theme=radical&border=16c79a&background=0d1117&stroke=16c79a&ring=16c79a&fire=ff6e96&currStreakLabel=16c79a&sideLabels=16c79a&currStreakNum=ffffff&sideNums=ffffff&dates=c9d1d9" alt="Streak"/>
 </p>
