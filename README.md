@@ -13,7 +13,7 @@ Cybersecurity Researcher • Security Developer • AI Security Enthusiast
 <br>
 
 <p align="center">
-  <img src="./assets/girls.png" width="650">
+  <img src="download.gif" width="650">
 </p>
 
 <h2 align="center">
