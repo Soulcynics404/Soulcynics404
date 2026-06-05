@@ -1,21 +1,14 @@
-
 Hyy 👋
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ![Soulcynics404](https://count.getloli.com/@Soulcynics404?name=Soulcynics404&theme=gelbooru-h&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto&num=0101229)
 
----
+**👻 Breaking Systems to Make Them Secure**
 
-<h3 align="center">👻 Breaking Systems to Make Them Secure</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/> Reconnaissance
-
-<img align="right" alt="Hacking" width="280" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif"/>
+## 👋 About Me
 
 - 👻 **Red Team Operator** — I am the threat model
 - 🎯 Specialties: **Pentesting, Exploit Dev, Adversary Simulation**
@@ -26,11 +19,9 @@ Hyy 👋
 
 <br clear="both"/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## ⚔️ Loadout
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -58,11 +49,9 @@ Hyy 👋
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🎯 Engagements
+## 📂 Projects
 
 <table align="center">
 <tr>
@@ -83,11 +72,9 @@ AI Security System<br/>
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 📊 Metrics
+## 📊 Stats
 
 <p align="center">
   <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Soulcynics404&theme=midnight-purple&border=8A2BE2&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&sideLabels=8A2BE2&currStreakNum=ffffff&sideNums=ffffff&dates=555555"/>
@@ -97,11 +84,9 @@ AI Security System<br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soulcynics404&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=ffffff&area=true&area_color=8A2BE2&hide_border=true" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🔗 Comms
+## 🔗 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -109,9 +94,7 @@ AI Security System<br/>
   <a href="https://github.com/Soulcynics404"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:4B0082,60:8A2BE2,100:0d1117&height=100&section=footer" width="100%"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <p align="center">
   <b>👻 "You can't defend what you don't understand. I understand your attack surface." 👻</b>
