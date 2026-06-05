@@ -3,6 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:4B0082,60:8A2BE2,100:0d1117&height=220&section=header&text=Soulcynics404&fontSize=50&fontColor=8A2BE2&animation=twinkling&fontAlignY=35&desc=Ghost%20in%20the%20Machine&descSize=18&descAlignY=55&descColor=ffffff" width="100%"/>
 </p>
 
+![](https://count.getloli.com/@Soulcynics404?name=Soulcynics404&theme=gelbooru-h&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto&num=0101229)
+</br>
+
 <h3 align="center">👻 Breaking Systems to Make Them Secure</h3>
 
 <p align="center">
