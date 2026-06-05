@@ -5,24 +5,9 @@ Hyy 👋
 
 ![Soulcynics404](https://count.getloli.com/@Soulcynics404?name=Soulcynics404&theme=gelbooru-h&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto&num=0101229)
 
-**👻 Breaking Systems to Make Them Secure**
-
 ---
 
 <h3 align="center">👻 Breaking Systems to Make Them Secure</h3>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Red+Team+Operator+%F0%9F%94%B4;Penetration+Tester+%F0%9F%8E%AF;AI+Security+Researcher+%F0%9F%A4%96;Silent.+Precise.+Effective." alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Soulcynics404&label=Observers&color=8A2BE2&style=for-the-badge" alt="Views"/>
-  <a href="https://github.com/Soulcynics404?tab=followers">
-    <img src="https://img.shields.io/github/followers/Soulcynics404?label=Followers&style=for-the-badge&color=8A2BE2&labelColor=0d1117"/>
-  </a>
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
