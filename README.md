@@ -1,33 +1,14 @@
-<!-- PURPLE STEALTH BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:4B0082,60:8A2BE2,100:0d1117&height=220&section=header&text=Soulcynics404&fontSize=50&fontColor=8A2BE2&animation=twinkling&fontAlignY=35&desc=Ghost%20in%20the%20Machine&descSize=18&descAlignY=55&descColor=ffffff" width="100%"/>
-</p>
+Hyy 👋
 
-(https://count.getloli.com/@Soulcynics404?name=Soulcynics404&theme=gelbooru-h&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto&num=0101229)
+---
 
+![Soulcynics404](https://count.getloli.com/@Soulcynics404?name=Soulcynics404&theme=gelbooru-h&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto&num=0101229)
 
-<h3 align="center">👻 Breaking Systems to Make Them Secure</h3>
+**👻 Breaking Systems to Make Them Secure**
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Red+Team+Operator+%F0%9F%94%B4;Penetration+Tester+%F0%9F%8E%AF;AI+Security+Researcher+%F0%9F%A4%96;Silent.+Precise.+Effective." alt="Typing SVG" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Soulcynics404&label=Observers&color=8A2BE2&style=for-the-badge" alt="Views"/>
-  <a href="https://github.com/Soulcynics404?tab=followers">
-    <img src="https://img.shields.io/github/followers/Soulcynics404?label=Followers&style=for-the-badge&color=8A2BE2&labelColor=0d1117"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/> Reconnaissance
-
-<img align="right" alt="Hacking" width="280" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif"/>
+## 👋 Reconnaissance
 
 - 👻 **Red Team Operator** — I am the threat model
 - 🎯 Specialties: **Pentesting, Exploit Dev, Adversary Simulation**
@@ -36,11 +17,7 @@
 - 🎮 Off-duty: Gaming & CTFs
 - 📧 `harshraj0645@gmail.com`
 
-<br clear="both"/>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
+---
 
 ## ⚔️ Loadout
 
@@ -70,9 +47,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
+---
 
 ## 🎯 Engagements
 
@@ -95,9 +70,7 @@ AI Security System<br/>
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
+---
 
 ## 📊 Metrics
 
@@ -109,9 +82,7 @@ AI Security System<br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soulcynics404&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=ffffff&area=true&area_color=8A2BE2&hide_border=true" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
+---
 
 ## 🔗 Comms
 
@@ -121,9 +92,7 @@ AI Security System<br/>
   <a href="https://github.com/Soulcynics404"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:4B0082,60:8A2BE2,100:0d1117&height=100&section=footer" width="100%"/>
-</p>
+---
 
 <p align="center">
   <b>👻 "You can't defend what you don't understand. I understand your attack surface." 👻</b>
