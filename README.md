@@ -4,18 +4,23 @@
 
 ![Soulcynics404](https://count.getloli.com/@Soulcynics404?name=Soulcynics404&theme=gelbooru-h&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto&num=0101229)
 
-## **👻 Breaking Systems to Make Them Secure**
+## ** Breaking Systems to Make Them Secure 👻**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 👋 About Me
+## - I'm a Student CEH Exploit Developer, Malware Analyst, and Security Researcher!!
+## - ⚡ **Had a great experience as a Red Teamer ( Threat model )**
+## - ⚡ **Experiencing Blue Teaming** 
+## - 🎯 **Building AI-driven defensive tools**
+## - 🌑 Operating from the **shadows of the network**
 
-- 👻 **Red Team Operator** — I am the threat model
-- 🎯 Specialties: **Pentesting, Exploit Dev, Adversary Simulation**
-- 🤖 Building **AI-driven offensive tools**
-- 🌑 Operating from the **shadows of the network**
-- 🎮 Off-duty: Gaming & CTFs
-- 📧 `harshraj0645@gmail.com`
+## :exclamation: Without Knowing the depth of Ocean, One shouldn't leap into it. It's dangerous
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/627794/87238756-a790f700-c3d4-11ea-9946-ae4c19fbb831.gif" width="140">
+  <img src="https://user-images.githubusercontent.com/627794/87238688-cd69cc00-c3d3-11ea-99f4-812dfd665b38.gif" width="180">
+  <img src="https://user-images.githubusercontent.com/627794/87238855-1589ee00-c3d6-11ea-8602-36c8c6cad686.gif" width="170">
+</p>
 
 <br clear="both"/>
 
