@@ -2,17 +2,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-![Soulcynics404](https://count.getloli.com/@Soulcynics404?name=Soulcynics404&theme=gelbooru-h&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto&num=0101229)
-
 ## Breaking Systems to Make Them Secure 👻
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-- ####  👋 I'm a CEH Exploit Developer, Malware Analyst, Ai Trainer and Security Researcher!!
-- ####  ⚡ **Had a great experience as a Red Teamer ( Threat model )**
-- ####  ⚡ **Experiencing Blue Teaming** 
+- ####  👋 Software developer building **full-stack web applications**
+- ####  🦀 Building **network and vulnerability scanning tools in Rust**
 - ####  🎯 **Building AI-driven defensive tools**
-- ####  🌑 Operating from the **shadows of the network**
+- ####  🎓 B.Tech CSE (Cyber Security), DIT University
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/627794/87238756-a790f700-c3d4-11ea-9946-ae4c19fbb831.gif" width="140">
@@ -87,7 +84,7 @@
 <tr>
 <td valign="top" width="50%">
 
-### [🤖 Sentinel AI](https://github.com/Soulcynics404/Sentinal-AI)
+### [🤖 Sentinel AI](https://github.com/Soulcynics404/sentinel-ai)
 
 **Continuous Face Verification Security System**
 
@@ -98,11 +95,11 @@
   <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>
 </p>
 
-- 🎯 Real-time face verification using **dlib ResNet 128D embeddings** — auto-locks in **3 seconds** on unauthorized access
-- 🛡️ Camera tamper detection: blur, dark frame & covered-lens detection with smart multi-person alert system
-- 🔐 Kill switch with **3 hash-verified security questions** for identity recovery
-- 📡 **Telegram Bot with 27+ remote commands** — lock/unlock, live capture, video recording
-- 📊 CSV activity log export with **millisecond-precision timestamps** across 16 data fields
+- 🎯 Real-time face verification using **dlib ResNet 128D embeddings** — auto-locks on unauthorized access
+- 🛡️ Camera tamper detection: blur, dark frame & covered-lens detection with multi-person alerts
+- 🔐 Kill switch with **hash-verified security questions** for identity recovery
+- 📡 **Telegram bot remote control** — lock/unlock, live capture, video recording
+- 📊 CSV activity log export across 16 data fields
 
 </td>
 <td valign="top" width="50%">
@@ -126,6 +123,29 @@
 
 </td>
 </tr>
+<tr>
+<td valign="top" width="50%">
+
+### [🐍 PacketViper](https://github.com/Soulcynics404/packetviper)
+
+**TUI Network Traffic Analyzer & Threat Detector**
+
+<p>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ratatui-000000?style=flat-square&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pnet-6A0DAD?style=flat-square&logo=rust&logoColor=white"/>
+</p>
+
+- 📡 Live packet capture with raw sockets in **promiscuous mode**
+- 🔬 Protocol parsing across **OSI layers 2–7**: Ethernet, ARP, IP, TCP/UDP, HTTP, DNS, TLS, SSH
+- 🛡️ Detects **ARP spoofing, port scans, DNS tunnelling and DDoS patterns**, validated against bettercap
+- 🔧 Custom filter language with protocol, IP, port and compound filters
+- 📁 Export to **JSON, CSV and PCAP** (Wireshark-compatible)
+
+</td>
+<td valign="top" width="50%">
+</td>
+</tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -141,7 +161,7 @@
 ## Connect with me 💬
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/harsshh"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:harshraj0645@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Soulcynics404"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
