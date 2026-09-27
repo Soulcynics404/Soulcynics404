@@ -2,6 +2,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
+![Soulcynics404](https://count.getloli.com/@Soulcynics404?name=Soulcynics404&theme=gelbooru-h&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto&num=0101229)
+
 ## Breaking Systems to Make Them Secure 👻
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -9,7 +11,7 @@
 - ####  👋 Software developer building **full-stack web applications**
 - ####  🦀 Building **network and vulnerability scanning tools in Rust**
 - ####  🎯 **Building AI-driven defensive tools**
-- ####  🎓 B.Tech CSE (Cyber Security), DIT University
+- ####  🌑 Operating from the **shadows of the network**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/627794/87238756-a790f700-c3d4-11ea-9946-ae4c19fbb831.gif" width="140">
@@ -96,9 +98,9 @@
 </p>
 
 - 🎯 Real-time face verification using **dlib ResNet 128D embeddings** — auto-locks on unauthorized access
-- 🛡️ Camera tamper detection: blur, dark frame & covered-lens detection with multi-person alerts
-- 🔐 Kill switch with **hash-verified security questions** for identity recovery
-- 📡 **Telegram bot remote control** — lock/unlock, live capture, video recording
+- 🛡️ Camera tamper detection: blur, dark frame & covered-lens detection with smart multi-person alert system
+- 🔐 Kill switch with **3 hash-verified security questions** for identity recovery
+- 📡 **Telegram Bot with 27+ remote commands** — lock/unlock, live capture, video recording
 - 📊 CSV activity log export across 16 data fields
 
 </td>
